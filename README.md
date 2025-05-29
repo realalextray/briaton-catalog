@@ -1,6 +1,6 @@
 # Lighting Catalog | Briaton
 
-A responsive e-commerce website featuring a dynamic product catalog, filtering, shopping cart, and interactive elements.
+A e-commerce website featuring a dynamic product catalog, filtering, shopping cart, and interactive elements.
 
 ## Technologies
 
