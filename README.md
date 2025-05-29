@@ -43,4 +43,5 @@ A responsive e-commerce website featuring a dynamic product catalog, filtering, 
 
 ## Contacts
 Name: Alexey Ostalcev
+
 Email: realalextray@gmail.com
